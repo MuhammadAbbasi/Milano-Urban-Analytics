@@ -1,13 +1,11 @@
-# Python
+
 __pycache__/
 *.py[cod]
 *$py.class
 *.ipynb_checkpoints/
 
-# User specific
 DSL SC Jan 2026/
 
-# Data and Artifacts
 dataset/
 dataset.zip
 viz/
@@ -16,9 +14,7 @@ visuals/
 backup/
 cache/
 
-# OS
 desktop.ini
 Thumbs.db
 
-# Output images (optional, but likely generated)
 *.png
